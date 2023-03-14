@@ -2,7 +2,7 @@
 This repository contains all the tasks that I completed during the Software Engineer Bootcamp at HyperionDev.
 The bootcamp is structured as a series of Tasks. These Tasks include a lesson component designed to allow us practice our Python and Engineering skills.
 
-# About HyperionDev
+## About HyperionDev
 HyperionDev is a tech education provider and has brought coding skills to thousands of students in more than 40 countries in partnership with renowned institutions, including The University of Edinburgh and UNISA Enterprise.
 
 
