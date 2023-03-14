@@ -37,3 +37,15 @@ The tasks are arranged in folders according to the lesson they were assigned.
   * Task 28. Beginner Data Structures - 2D Lists
   * Task 29. Towards Defensive Programming I
   * Task 30. Introduction to OOP I - Classe
+ 
+
+# Usage
+To run any of the tasks, simply navigate to the relevant folder and run the Python file. For example, to run Task 3:
+
+```
+cd T3
+python hello_world.py
+```
+
+# Requirements
+All the tasks were completed using Python 3.8.16. No additional packages or libraries were used.
