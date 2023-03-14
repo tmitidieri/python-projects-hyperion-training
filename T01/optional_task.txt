@@ -1,0 +1,8 @@
+optional_task
+
+#An algorithm that asks the user to enter four numbers, sorts those
+numbers from smallest to largest and then prints the sorted numbers.
+
+request user to input four numbers  
+sort list of numbers in ascending order
+    print list of numbers

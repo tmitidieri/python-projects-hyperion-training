@@ -1,0 +1,13 @@
+set variable A as 0
+set variable B as 1
+set variable C as A plus B
+request user to input a number 
+if the input is is smaller or equal to zero 
+request user to input a positive interger 
+else the input is bigger than zero
+store the input in a variable called N
+print A, B
+loop N times
+    print C
+    set A = B, B = C
+close

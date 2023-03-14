@@ -1,0 +1,8 @@
+Total tasks on the system: 7
+Number of uncompleted tasks: 4
+Number of completed tasks: 3
+Percentage of incomplete: 57.1
+Number of overdue tasks: 5
+Percentage of overdue tasks: 71.4
+_____Report generated on 2023-02-17_____
+

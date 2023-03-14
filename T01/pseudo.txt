@@ -1,0 +1,43 @@
+# An algorithm that asks a user to enter a
+ positive number repeatedly until the user 
+ enters a zero value, then determines and 
+ outputs the largest of the numbers that were input
+
+ request input of a "positive number between 0 and 10"
+    if the number entered is bigger than zero 
+        store the input into an array
+        request input of a "positive number between 0 and 10"
+    else if the number entered is smaler than 0
+        request input of a "positive number between 0 and 10"
+    else if the number entered is 0
+        read the array and get the highest value 
+        store the result in a variable X
+        print "the largest number inserted is X"
+
+
+
+# An algorithm that reads an arbitrary number of integers and then
+returns their arithmetic average
+
+get arbitrary integers
+create array with integers as variable y
+calculate the arithmetic average of y
+    print "the arithmetic average of integers input is y"
+
+
+#An algorithm that reads a grocery list and prints out the products
+(in alphabetical order) that are still left to buy
+
+get grocery list
+filter out products that are NOT left to buy
+sort products alphabeticaly
+    print grocery list
+
+
+#An algorithm for the chart below
+
+get X and Y
+let S be to X + Y
+let A be to S divided by 2
+let P be to X multiplied by Y
+    print S, A, P

@@ -1,0 +1,5 @@
+r, r
+t, t
+admin, adm1n
+mari, m@r1
+carl, c@rl

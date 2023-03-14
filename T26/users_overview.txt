@@ -1,0 +1,29 @@
+Total users on the system: 5
+User r has no tasks.
+User t has no tasks.
+User admin details: 
+
+▪ Total tasks: 2
+▪ The percentage of tasks assigned: 28.6
+▪ The percentage of the tasks completed: 50.0
+▪ The percentage of the tasks uncompleted: 50.0
+▪ The percentage of the tasks overdue: 100.0
+
+User mari details: 
+
+▪ Total tasks: 3
+▪ The percentage of tasks assigned: 42.9
+▪ The percentage of the tasks completed: 33.3
+▪ The percentage of the tasks uncompleted: 66.7
+▪ The percentage of the tasks overdue: 66.7
+
+User carl details: 
+
+▪ Total tasks: 1
+▪ The percentage of tasks assigned: 14.3
+▪ The percentage of the tasks completed: 0.0
+▪ The percentage of the tasks uncompleted: 100.0
+▪ The percentage of the tasks overdue: 100.0
+
+_____Report generated on 2023-02-17_____
+
